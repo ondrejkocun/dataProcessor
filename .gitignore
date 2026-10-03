@@ -1,0 +1,4 @@
+.cache
+build/
+native.srt
+json.json
